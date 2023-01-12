@@ -1,2 +1,4 @@
 ## mireillejordz.github.io
-Jordz Bon
+*Jordan Bon
+
+LG **ARROWSMITH**
