@@ -1,2 +1,2 @@
-# mireillejordz.github.io
+## mireillejordz.github.io
 Jordz Bon
