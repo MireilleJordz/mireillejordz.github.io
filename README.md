@@ -2,7 +2,7 @@
 *Jordan Bon
 
 LG **ARROWSMITH**
->Oui je crois, qu'une vie ça commence avec un mot d'amour
+>*"Oui je crois, qu'une vie ça commence avec un mot d'amour"
 
 My favorite genres of music:
 - Chanson Francaise
@@ -14,7 +14,8 @@ My favorite genres of music:
 My Favorite Songs:
 
 - La Vie En Rose (Mireille Mathieu Version)
- https://youtu.be/IHZuKSJZACg
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/IHZuKSJZACg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Milord (Mireille Mathieu Version)
 - Padam Padam (Mireille Mathieu Version)
 - Jezebel (Mireille Mathieu Palais De Congres 1990 Concert Version)
