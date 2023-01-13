@@ -2,7 +2,7 @@
 *Jordan Bon
 
 LG **ARROWSMITH**
->Oui je crois, qu'une vie ça commence avec un mot d'amour
+>_*Oui je crois, qu'une vie ça commence avec un mot d'amour
 
 My favorite genres of music:
 -Chanson Francaise
