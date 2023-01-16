@@ -22,7 +22,7 @@ My Favorite Songs:
 - C'est si Bon (Mireille Mathieu Version)
 - Es Geht Mit Gut, Merci Cheri (Mireille Mathieu)
 - Hinter Den Kulissen Von Paris (Mireille Mathieu)
-- Tarata
+- Tarata-ting Tara-tong
 
 
 
