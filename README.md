@@ -13,7 +13,7 @@ My favorite genres of music:
 
 My Favorite Songs:
 
-- La Vie En Rose (Mireille Mathieu Version) (<iframe width="560" height="315" src="https://www.youtube.com/embed/IHZuKSJZACg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+- La Vie En Rose (Mireille Mathieu Version) <iframe width="560" height="315" src="https://www.youtube.com/embed/IHZuKSJZACg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Milord (Mireille Mathieu Version)
 - Padam Padam (Mireille Mathieu Version)
 - Jezebel (Mireille Mathieu Palais De Congres 1990 Concert Version)
@@ -34,4 +34,5 @@ Here's a picture of her:
 To Do List:
 
 | Monday | Tuesday | Wednseday | Thursday | Friday |
+
 | ------ | ------- | --------- | -------- | ------ |
