@@ -45,6 +45,4 @@ Here's a picture of her:
 To Do List:
 
 | Monday | Tuesday | Wednseday | Thursday | Friday |
-
-
 | ------ | ------- | --------- | -------- | ------ |
